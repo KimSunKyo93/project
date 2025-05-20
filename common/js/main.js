@@ -304,19 +304,3 @@ $(window).on('resize', function () {
 	ww = $(window).outerWidth(true);
   initSwiper();
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

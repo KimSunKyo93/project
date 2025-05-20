@@ -226,7 +226,7 @@
 .cont3 .work_list .list .work_bot .work_bot_txt > li {color:#fff;}
 .cont3 .work_list .list .work_bot .work_bot_txt > li:nth-child(2),
 .cont3 .work_list .list .work_bot .work_bot_txt > li.color {color:#4A8FFF; text-decoration:underline; font-weight:600;}
-.cont3 .work_list .list .work_bot .work_bot_txt > li.no_color {color:#fff; text-decoration:none; font-weight:normal;}
+.cont3 .work_list .list .work_bot .work_bot_txt > li.color_no {color:#fff; text-decoration:none; font-weight:normal;}
 .cont3 .work_list .list .work_bot .work_bot_txt > li:after {content:""; display:inline-block; width:3px; height:3px; background:#ffff; border-radius:50%; margin:0px 10px; position:relative; top:-3px;}
 .cont3 .work_list .list .work_bot .work_bot_txt > li:last-child:after {display:none;}
 .cont3 .work_list .list .work_bot > span {color:#4A8FFF; font-weight:600; text-decoration:underline;}
